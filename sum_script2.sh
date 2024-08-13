@@ -7,4 +7,4 @@ result= $(( $num1 + $num2 ))
 echo "Sum of two numbers is: $result"
 
 #This script performs addition of two numbers
-# testing rebase
+# testing rebase demo 2
