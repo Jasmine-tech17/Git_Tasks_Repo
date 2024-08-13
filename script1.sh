@@ -1,5 +1,5 @@
 #!/bin/bash
-# rebase test two
+# rebase test demo1
 mkdir mydirectory
 cd mydirectory
 touch demo1.txt
